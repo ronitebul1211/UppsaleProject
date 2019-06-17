@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UppsaleProject</string>
+    <string name="entry_btn">כניסה</string>
+    <string name="welcome_message_f">ברוך הבא:\n%1$s</string>
+
+
+    <string name="alert_positive_button">הבנתי</string>
+    <string name="alert_network_error_message">אין רשת זמינה התחבר לאינטרנט ונסה שנית</string>
+    <string name="alert_error_message">משהו השתבש הכנס שנית</string>
+    <string name="alert_error_code_message">שגיאה %1$s התקשר לתמיכה</string>
+    <string name="token"> </string>
+</resources>
